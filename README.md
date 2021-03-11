@@ -2,4 +2,4 @@
 
 - [x] annotation of sunrise and sunset on time-plots
 
-- [ ] adding approximate distance axes
+- [x] adding approximate distance axes
